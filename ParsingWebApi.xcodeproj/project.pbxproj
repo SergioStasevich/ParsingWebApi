@@ -13,6 +13,7 @@
 		84C6179229045F7D003C0362 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C6179029045F7D003C0362 /* Main.storyboard */; };
 		84C6179429045F7E003C0362 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84C6179329045F7E003C0362 /* Assets.xcassets */; };
 		84C6179729045F7E003C0362 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C6179529045F7E003C0362 /* LaunchScreen.storyboard */; };
+		84C6179F29046BD7003C0362 /* StructJoke.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C6179E29046BD7003C0362 /* StructJoke.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84C6179329045F7E003C0362 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84C6179629045F7E003C0362 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84C6179829045F7E003C0362 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C6179E29046BD7003C0362 /* StructJoke.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StructJoke.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				84C6178A29045F7D003C0362 /* AppDelegate.swift */,
 				84C6178C29045F7D003C0362 /* SceneDelegate.swift */,
 				84C6178E29045F7D003C0362 /* ViewController.swift */,
+				84C6179E29046BD7003C0362 /* StructJoke.swift */,
 				84C6179029045F7D003C0362 /* Main.storyboard */,
 				84C6179329045F7E003C0362 /* Assets.xcassets */,
 				84C6179529045F7E003C0362 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84C6178F29045F7D003C0362 /* ViewController.swift in Sources */,
+				84C6179F29046BD7003C0362 /* StructJoke.swift in Sources */,
 				84C6178B29045F7D003C0362 /* AppDelegate.swift in Sources */,
 				84C6178D29045F7D003C0362 /* SceneDelegate.swift in Sources */,
 			);
